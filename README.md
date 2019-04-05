@@ -10,3 +10,7 @@ CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **R
 ## Evaluation Metric
 
 ## Installation Instruction(Locally for now)
+Go to **package** folder and run
+```
+pip install --user .
+```

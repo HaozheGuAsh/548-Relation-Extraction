@@ -16,6 +16,9 @@ pip install --user .
 ```
 After that, you can test it by
 ```
-import ditk.relationExtraction re
+from ditk import relationExtraction as re
+
 re.info()
+re.example1.info()
+re.example2.info()
 ```

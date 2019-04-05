@@ -8,3 +8,5 @@ CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **R
 ## Benchmark Dataset
 
 ## Evaluation Metric
+
+## Installation Instruction(Locally for now)

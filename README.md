@@ -24,5 +24,7 @@ re.example2.info()
 ```
 Output:
 >CSCI 548 Project- Data Integration Toolkit -> relationExtraction Methods
+
 >Relation Extraction Example Method1
+
 >Relation Extraction Example Method1

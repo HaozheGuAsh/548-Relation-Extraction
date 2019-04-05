@@ -27,4 +27,4 @@ Output:
 
 >Relation Extraction Example Method1
 
->Relation Extraction Example Method1
+>Relation Extraction Example Method2

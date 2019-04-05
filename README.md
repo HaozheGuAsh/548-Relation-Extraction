@@ -19,13 +19,10 @@ After that, you can test it by
 from ditk import relationExtraction as re
 
 re.info()
-```
->CSCI 548 Project- Data Integration Toolkit -> relationExtraction Methods
-```
 re.example1.info()
-```
->Relation Extraction Example Method1
-```
 re.example2.info()
 ```
+Output:
+>CSCI 548 Project- Data Integration Toolkit -> relationExtraction Methods
+>Relation Extraction Example Method1
 >Relation Extraction Example Method1

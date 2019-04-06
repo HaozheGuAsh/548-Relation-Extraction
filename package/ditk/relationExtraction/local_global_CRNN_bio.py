@@ -1,8 +1,12 @@
-# Module Written By Haozhe Gu(Ash)
-# For the paper: Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text
+#!/usr/bin/env python3
+'''
+Module Written By Haozhe Gu(Ash)
+For the paper: Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text
+'''
 
 
 # -*- coding: utf-8 -*-
+from . import relation_extraction_3 as parent
 import tensorflow as tf
 import numpy as np
 import os

@@ -1,7 +1,11 @@
-# Module Written By Haozhe Gu(Ash)
-# For the paper: A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction
+#!/usr/bin/env python3
+'''
+Module Written By Haozhe Gu(Ash)
+For the paper: A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction
+'''
 
 # -*- coding: utf-8 -*-
+from . import relation_extraction_3 as parent
 import tensorflow as tf
 import os
 import time

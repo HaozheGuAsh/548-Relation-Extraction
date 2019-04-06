@@ -1,6 +1,7 @@
 # CSCI 548 Data Integration Toolkit - Relation Extraction
 CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **Relation Extraction Group**
 
+
 ## Team Members
 
 | Name                 | Email                 | Module 1              | Module 2               |
@@ -8,13 +9,19 @@ CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **R
 | Haozhe Gu(Ash)       | haozhegu@usc.edu      | soft_label_RE         | local_global_CRNN_bio  |
 
 ## Benchmark Dataset
-### NYT10 Dataset [[paper]](http://www.riedelcastro.org//publications/papers/riedel10modeling.pdf) [[download]](http://iesl.cs.umass.edu/riedel/ecml/)
+
+
+### NYT10 Dataset 
+[[paper]](http://www.riedelcastro.org//publications/papers/riedel10modeling.pdf) [[download]](http://iesl.cs.umass.edu/riedel/ecml/)
 
 NYT10 is a distantly supervised dataset originally released by the paper "Sebastian Riedel, Limin Yao, and Andrew McCallum. Modeling relations and their mentions without labeled text.". 
+
+
 ## Evaluation Metrics
     1. Precision
     2. Recall 
     3. F1 Score
+
 
 ## Example Usage (Locally for now)
 Go to **package** folder and install the package

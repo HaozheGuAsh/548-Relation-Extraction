@@ -14,17 +14,24 @@ Go to **package** folder and install the package
 ```
 pip install --user .
 ```
-After that, you can test it by
+After that, you can test it using example method in both Python2 and Python3
+
+*Python2
 ```
-from ditk import relationExtraction as re
+from ditk.relationExtraction.example_python2 import Example as model1
 
-re.info()
-re.example1.info()
-re.example2.info()
+m1=model1()
+m1.read_dataset()
+m1.train()
+evaluate()
 ```
-Output:
->CSCI 548 Project- Data Integration Toolkit -> relationExtraction Methods
 
->Relation Extraction Example Method1
+*Python3
+```
+from ditk.relationExtraction.example_python3 import Example as model2
 
->Relation Extraction Example Method2
+m2=model2()
+m2.read_dataset()
+m2.train()
+evaluate()
+```

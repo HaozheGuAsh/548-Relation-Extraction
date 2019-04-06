@@ -16,22 +16,22 @@ pip install --user .
 ```
 After that, you can test it using example method in both Python2 and Python3
 
-*Python2
-```
-from ditk.relationExtraction.example_python2 import Example as model1
+* Python2
+  ```
+  from ditk.relationExtraction.example_python2 import Example as model1
 
-m1=model1()
-m1.read_dataset()
-m1.train()
-evaluate()
-```
+  m1=model1()
+  m1.read_dataset()
+  m1.train()
+  evaluate()
+  ```
 
-*Python3
-```
-from ditk.relationExtraction.example_python3 import Example as model2
+* Python3
+  ```
+  from ditk.relationExtraction.example_python3 import Example as model2
 
-m2=model2()
-m2.read_dataset()
-m2.train()
-evaluate()
-```
+  m2=model2()
+  m2.read_dataset()
+  m2.train()
+  evaluate()
+  ```

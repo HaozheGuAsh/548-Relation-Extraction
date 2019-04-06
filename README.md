@@ -5,7 +5,7 @@ CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **R
 
 | Name                 | Email                 | Module 1              | Module 2               |
 |:--------------------:|:---------------------:|:---------------------:|:----------------------:|
-| Haozhe Gu(Ash)       | haozhegu@usc.edu      | soft_label_RE.py      | local_global_CRNN_bio  |
+| Haozhe Gu(Ash)       | haozhegu@usc.edu      | soft_label_RE         | local_global_CRNN_bio  |
 
 ## Benchmark Dataset
 

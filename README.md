@@ -8,7 +8,9 @@ CSCI 548 Spring 2019 Group Project. Data Integration Toolkit Library(ditk) - **R
 | Haozhe Gu(Ash)       | haozhegu@usc.edu      | soft_label_RE         | local_global_CRNN_bio  |
 
 ## Benchmark Dataset
+### NYT10 Dataset
 
+NYT10 is a distantly supervised dataset originally released by the paper "Sebastian Riedel, Limin Yao, and Andrew McCallum. Modeling relations and their mentions without labeled text.". [[paper]](http://www.riedelcastro.org//publications/papers/riedel10modeling.pdf) [[download]](http://iesl.cs.umass.edu/riedel/ecml/)
 ## Evaluation Metrics
     1. Precision
     2. Recall 
@@ -21,7 +23,7 @@ pip install --user .
 ```
 After that, you can test it using example method in both Python2 and Python3
 
-* Python2
+Python2
   ```
   from ditk.relationExtraction.example_python2 import Example as model1
 
@@ -31,7 +33,7 @@ After that, you can test it using example method in both Python2 and Python3
   evaluate()
   ```
 
-* Python3
+Python3
   ```
   from ditk.relationExtraction.example_python3 import Example as model2
 

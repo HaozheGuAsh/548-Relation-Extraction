@@ -8,8 +8,8 @@ class Example(parent.RelationExtractionModel):
     def __init__(self):
         print("Initializing Relation Extraction Example Model Using Python2")
 
-    def read_dataset(self, input_file):
-        print("Python2 Example Model is reading data from:" + input_file)
+    def read_dataset(self, input_file=None):
+        print("Python2 Example Model is reading data ")
 
     def data_preprocess(self, input_data=None):
         print("Python2 Example Model is preprocessing data")
